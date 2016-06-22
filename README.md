@@ -1,1 +1,2 @@
 # serenity
+mvn clean verify
